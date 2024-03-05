@@ -33,6 +33,8 @@ e. created spec/requests/sessions_spec for JWT auth
  
 #6.Please include the url to your Front end Project's repository
 
+https://github.com/Deborah-McVey/wheelchair_exchange_3_client
+
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
